@@ -4,3 +4,4 @@ document.getElementById('add-btn').addEventListener('click', () => {
   console.log("Sum:", a + b);
 document.getElementById('output').textContent = `Final Answer = ${a + b} units`;
 });
+
