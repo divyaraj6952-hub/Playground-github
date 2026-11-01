@@ -1,2 +1,5 @@
 body { font-family: sans-serif; padding: 20px; }
-.calculator { display: flex; gap: 10px; }
+.calculator { display: flex; gap: 10px; background-color: aqua; }
+.result-box{
+    background-color: bisque;
+}
